@@ -1,4 +1,4 @@
-👋 Hi, I’m @tauon888
+👋 Hi, I’m tauon888
 - 👀 I’m interested in Machine Learning, Discrete Optimization, Algorithms and Quantum Computing
 - 👀 More broadly Mathematics, Chess and Puzzles
 - 👀 I also play Keyboards, Synthesizers and Jazz Piano
